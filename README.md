@@ -1,2 +1,2 @@
 # about_me
-Wizytówka zadanie z bootcamp-2019-03 Codebery
+#### project can be viewed [here](https://marcocollander.github.io/about_me/)
